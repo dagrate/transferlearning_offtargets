@@ -2,9 +2,8 @@
 
 ## Repository Structure
 
-**data**: all data required for the experiments 
-
-**notebooks**: all scientific experiments
+**data**: all data required for the experiments <br>
+**notebooks**: all scientific experiments <br>
 
 **src**: python source code used in the scientific experiments (required to execute the scientific experiments)
 
