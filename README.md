@@ -20,3 +20,7 @@
 
 The encoder class is inherited from [1] "CRISPR-Net: A Recurrent Convolutional Network Quantiﬁes CRISPR Off-Target Activities with Mismatches and Indels", J. Lin et al, https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.201903562
 
+1. _transferlearning_crispr_datapipeline.ipynb_: for data encoding
+
+## To complete the description
+
