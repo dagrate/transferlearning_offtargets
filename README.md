@@ -1,5 +1,12 @@
 # transferlearning_offtargets
 
+## Repository Structure
+
+**data**: all data required for the experiments
+**notebooks**: all scientific experiments
+**src**: python source code used in the scientific experiments (required to execute the scientific experiments)
+
+
 ## For similarity analysis
 
 **Measurement of the data similarity using boostrapping**
