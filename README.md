@@ -25,6 +25,9 @@ The encoder class is inherited from [1] "CRISPR-Net: A Recurrent Convolutional N
 3. _transferlearning_data_encoding_pipeline.ipynb_: data pipeline in src code to preprocess and save the encoded data in a pkl format
 
 
+## For hyperparameters search 
+
+work in progress 
 
 ## To complete the description
 
