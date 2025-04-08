@@ -35,6 +35,13 @@ We first performed the hyperparameters search (in priority for the deep learning
 2. _transferlearning_DLmodels_hypertuning.ipynb_: hyperparameters search for the deep learning models
 
 
+## For models training
+
+1. _transferlearning_clfs_train_and_save_models_CD33.ipynb_: train and save models with hypertuned parameters on CD33 data set
+
+documentation in progress
+
+
 ## To complete the description
 
 DOCUMENTATION IN PROGRESS
