@@ -27,7 +27,13 @@ The encoder class is inherited from [1] "CRISPR-Net: A Recurrent Convolutional N
 
 ## For hyperparameters search 
 
-work in progress 
+This folder contains the notebooks used to perform hyperparameters search. 
+Training all the models while doing hypertuning requires extensive computation.
+We first performed the hyperparameters search (in priority for the deep learning models), and then we trained and saved the models (see section below).
+
+1. _transferlearning_RF_MLP_models_hyperparameters_search.ipynb_: simple search for MLP and random forest algorithms
+2. _transferlearning_DLmodels_hypertuning.ipynb_: hyperparameters search for the deep learning models
+
 
 ## To complete the description
 
