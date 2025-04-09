@@ -44,8 +44,9 @@ We first performed the hyperparameters search (in priority for the deep learning
 
 ## For models predictions
 
-documentation in progress
-
+1. _transferlearning_predict_roc_recall_curves_cd33.ipynb_: transfer learning models predictions with hypertuned parameters on CD33 data set
+2. _transferlearning_predict_roc_recall_curves_circle_seq_10grna.ipynb_: transfer learning models predictions with hypertuned parameters on Circle-Seq 10gRNA data set
+3. _transferlearning_predict_roc_recall_curves_siteSeq.ipynb_: transfer learning models predictions with hypertuned parameters Site-Seq CD33 data set 
 
 ## To complete the description
 
