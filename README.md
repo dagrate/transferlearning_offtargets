@@ -42,6 +42,11 @@ We first performed the hyperparameters search (in priority for the deep learning
 3. _transferlearning_clfs_train_and_save_models_siteSeq.ipynb_: train and save models with hypertuned parameters on Site_Seq data set
 
 
+## For models predictions
+
+documentation in progress
+
+
 ## To complete the description
 
 DOCUMENTATION IN PROGRESS
