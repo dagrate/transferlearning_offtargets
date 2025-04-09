@@ -38,8 +38,8 @@ We first performed the hyperparameters search (in priority for the deep learning
 ## For models training
 
 1. _transferlearning_clfs_train_and_save_models_CD33.ipynb_: train and save models with hypertuned parameters on CD33 data set
-
-documentation in progress
+2. _transferlearning_clfs_train_and_save_models_circleSeq10gRNA.ipynb_: train and save models with hypertuned parameters on Circle-Seq data set
+3. _transferlearning_clfs_train_and_save_models_siteSeq.ipynb_: train and save models with hypertuned parameters on Site_Seq data set
 
 
 ## To complete the description
