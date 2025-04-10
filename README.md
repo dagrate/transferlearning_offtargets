@@ -48,7 +48,13 @@ We first performed the hyperparameters search (in priority for the deep learning
 2. _transferlearning_predict_roc_recall_curves_circle_seq_10grna.ipynb_: transfer learning models predictions with hypertuned parameters on Circle-Seq 10gRNA data set
 3. _transferlearning_predict_roc_recall_curves_siteSeq.ipynb_: transfer learning models predictions with hypertuned parameters Site-Seq CD33 data set 
 
-## To complete the description
+## For pipelines
 
-DOCUMENTATION IN PROGRESS
+In the folder src, different modules and functions are available to conduct the experiments in the notebooks.
+
+1. _simanalysis.py_: python file containing functions for the similarity analysis of the data sets
+2. _transferlearning_datapipeline.py_: python file containing functions for the data encoding and pre-processsing
+3. _transferlearning_modelpipeline.py_: python file containing functions for the models
+4. _transferlearning_tensorflow_models.py_: python file containing functions for the tensorflow models
+5. _transferlearning_utils.py_: python file containing various functions used across all notebooks at the different stages of the experiments
 
