@@ -9,7 +9,8 @@
 
 ## Data
 
-For information on the data, refer to the data readme available at https://github.com/dagrate/transferlearning_offtargets/blob/main/data/readme.md
+For information on the data, refer to the data readme available [here](https://github.com/dagrate/transferlearning_offtargets/blob/main/data/readme.md)
+
 
 
 ## For similarity analysis
