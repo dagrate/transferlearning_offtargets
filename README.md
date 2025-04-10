@@ -57,7 +57,7 @@ We first performed the hyperparameters search (in priority for the deep learning
 2. _transferlearning_predict_roc_recall_curves_circle_seq_10grna.ipynb_: transfer learning models predictions with hypertuned parameters on Circle-Seq 10gRNA data set
 3. _transferlearning_predict_roc_recall_curves_siteSeq.ipynb_: transfer learning models predictions with hypertuned parameters Site-Seq CD33 data set 
 
-## For pipelines
+## For pipelines and Functions
 
 In the folder src, different modules and functions are available to conduct the experiments in the notebooks.
 
