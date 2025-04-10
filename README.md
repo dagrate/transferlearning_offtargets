@@ -1,5 +1,8 @@
 # transferlearning_offtargets
 
+Performing off-target predictions using transfer learning.
+
+
 ## Repository Structure
 
 1. _data_: all data required for the experiments
