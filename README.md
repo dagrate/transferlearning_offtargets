@@ -7,6 +7,11 @@
 3. _src_: python source code used in the scientific experiments (required to execute the scientific experiments)
 
 
+## Data
+
+For information on the data, refer to the data readme available at https://github.com/dagrate/transferlearning_offtargets/blob/main/data/readme.md
+
+
 ## For similarity analysis
 
 **Measurement of the data similarity using boostrapping**
